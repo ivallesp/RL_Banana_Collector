@@ -52,3 +52,6 @@ Follow the instructions in `Report.ipynb` to get started with training your own 
 - `models.py`: contains the model which will be the brain of the agent. It is responsible of implementing the technical part of the neural network using pytorch. It will be used by the agent class as an API. Note, it contains more than one model because the pixels version of the environment is intended to be implemented and appended to this report when it is finished.
 - `rl_utilities`: contains different functions for helping the agent overcome the necessary tasks (e.g. experience replay).
 
+### License
+This repository has been licensed under MIT Agreement. If you want more information, check out the `LICENSE` file. 
+Copyright (c) 2018 Iván Vallés Pérez
